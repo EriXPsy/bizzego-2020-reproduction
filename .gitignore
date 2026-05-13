@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data (too large for git)
+*.mat
+*.pkl
+Processed/
+RawData_*/
+Scripts/
+
+# Results (generated)
+multisync_results/
